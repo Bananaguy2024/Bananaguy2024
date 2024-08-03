@@ -1,6 +1,6 @@
 /* 
 
-  The file name is README.MD but i wish to don't read it
+  The file name is README.MD but I wish to don't read it
 
 */
 
@@ -8,9 +8,9 @@
 - 👋 Hi, I’m @Bananaguy2024
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning Python and I will learn soon Lua and Java
-- 💞️ I’m looking to collaborate on making an oprating system(will be better than linux and windows and macintosh) and a langauge for gaming development
-- 📫 How to reach me I am in Antarctica living in a house made by stones and has an internet cabel
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on making a game
+- 📫 How to reach me: I am in Mars you can message me with the nearest UFO station it's 350k Light year they have WIFI cable by the way
+- 😄 Pronouns: Banana guy
 - ⚡ Fun fact: I got into programming by banana peel, here is it : I slipped on a banana peel
       Then I got up and when I got up I discovered that an advertising poster was under me when I fell and it contained an advertisement for the job of a software programmer.
 - 😁 info: I am kind of old-fashiond person I am looking for learning c and c++ but there is no any free courses in youtube because my learning budget is 0$
